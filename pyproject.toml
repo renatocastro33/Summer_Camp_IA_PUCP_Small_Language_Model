@@ -24,6 +24,11 @@ dependencies = [
     "wandb>=0.21.3",
 ]
 
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["nanochat*"]
+exclude = ["class*", "dev*"]
+
 [dependency-groups]
 dev = [
     "pytest>=8.0.0",
