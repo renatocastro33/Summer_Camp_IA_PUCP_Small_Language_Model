@@ -1,4 +1,4 @@
-# nanochat
+# Let's build Nanochat, a SLM built by the wizard Andrej Karparthy
 
 ![nanochat logo](dev/nanochat.png)
 
