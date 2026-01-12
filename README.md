@@ -14,7 +14,7 @@ Follow these steps:
 4. Create a virtual environment and install dependencies !uv venv and !uv sync
 5. pip install -e .
 6. For the foundational notebooks, get into "Class" folder
-7. Create an account in Modal website https://modal.com/ for the final pipeline so you can use the deployed Nanochat
+7. Create an account in Modal website https://modal.com/ for the final pipeline 4.Deploying_Nanochat.ipynb so you can use the deployed Nanochat
 
 ## Cite
 
