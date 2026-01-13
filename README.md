@@ -21,8 +21,8 @@ Follow the steps below to set up the environment and run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/renatocastro33/Summer_Camp_IA_PUCP_Small_Language_Model.git
+cd Summer_Camp_IA_PUCP_Small_Language_Model
 ```
 
 ### 2. Install the uv package manager
@@ -62,7 +62,7 @@ For the final pipeline (4.Deploying_Nanochat.ipynb), you will need a Modal accou
 
 Create an account at: https://modal.com
 
-Follow the notebook instructions to deploy Nanochat in the cloud
+Follow the notebook instructions to deploy Nanochat in the cloud. You must select in Processing the unit called GPU H100 in order to run the weights otherwise it will give an error.
 
 Use the deployed Nanochat endpoint for inference
 
