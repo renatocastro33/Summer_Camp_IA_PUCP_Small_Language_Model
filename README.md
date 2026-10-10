@@ -1,7 +1,5 @@
 # Let's build Nanochat, a SLM built by the wizard Andrej Karparthy
 
-![nanochat logo](dev/nanochat.png)
-
 > The best ChatGPT that $100 can buy.
 
 This repo is for the Small Language Models Workshop in Summer AI Camp at PUCP.
@@ -66,20 +64,6 @@ Follow the notebook instructions to deploy Nanochat in the cloud. You must selec
 
 Use the deployed Nanochat endpoint for inference
 
-
-## Cite
-
-If you find nanochat helpful in your research cite simply as:
-
-```bibtex
-@misc{nanochat,
-  author = {Andrej Karpathy},
-  title = {nanochat: The best ChatGPT that $100 can buy},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/karpathy/nanochat}
-}
-```
 
 ## License
 
